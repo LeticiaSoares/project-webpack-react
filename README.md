@@ -1,2 +1,1 @@
-# project-webpack-react
-Project React with Webpack
+# React project with Webpack
