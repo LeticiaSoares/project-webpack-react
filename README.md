@@ -1,1 +1,1 @@
-# React project with Webpack
+# React Project Template with Webpack
